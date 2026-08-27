@@ -1,6 +1,7 @@
 
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/d79b82b7-36a1-4066-9b4e-35f0a8c360ae" />
+
 </p>
 
 <h1> How to Create a Virtual Machine using Microsoft Azure</h1>
