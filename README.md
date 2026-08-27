@@ -72,6 +72,22 @@ This tutorial will demonstrate how to create and access a virtual machine using 
 <img width="1598" height="724" alt="image" src="https://github.com/user-attachments/assets/e1ac2963-42e1-4e65-a203-4e2440764dfa" />
 </p>
 <p>
-7. Select Create to finalize the Virtual Machine; this process may take a couple of seconds to a few minutes
+7. Select Create to finalize the Virtual Machine; this process may take a couple of seconds to a few minutes.
+</p>
+<br />
+
+<p>
+<img width="1599" height="763" alt="image" src="https://github.com/user-attachments/assets/11d8b404-4ffe-4f0b-bc95-e1f401931e0c" />
+</p>
+<p>
+8. Once the Virtual Machine is finished deploying, head back to the Azure home tab. The Virtual Machine should be listed; click on the Virtual Machine that you want to access.
+</p>
+<br />
+
+<p>
+<img width="1597" height="761" alt="image" src="https://github.com/user-attachments/assets/093edefb-d4c3-4a05-b170-813ffe485b4a" />
+</p>
+<p>
+9. Scroll down and look for the Public IP address. Copy the IP address to your clipboard so that you can input it to Remote Desktop later. 
 </p>
 <br />
