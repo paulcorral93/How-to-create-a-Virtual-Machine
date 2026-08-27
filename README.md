@@ -91,3 +91,43 @@ This tutorial will demonstrate how to create and access a virtual machine using 
 9. Scroll down and look for the Public IP address. Copy the IP address to your clipboard so that you can input it to Remote Desktop later. 
 </p>
 <br />
+
+<p>
+<img width="838" height="780" alt="image" src="https://github.com/user-attachments/assets/5a64ad88-d7d6-43d2-becc-68aa086f1d0a" />
+</p>
+<p>
+10.  Click the Start menu on your computer and search for Remote Desktop. Run Remote Desktop.
+</p>
+<br />
+
+<p>
+<img width="475" height="541" alt="image" src="https://github.com/user-attachments/assets/e2e15bc0-9904-47c2-b46b-b575d348138a" />
+</p>
+<p>
+11. Input the Public IP address and the username for the Virtual Machine you just created. Be sure to expand "Show Options" at the bottom of the window.
+You will be prompted to also enter the password for your Virtual Machine.
+</p>
+<br />
+
+<p>
+ <img width="434" height="507" alt="image" src="https://github.com/user-attachments/assets/8a44ef0f-ae80-4520-b87c-4ce293d1fc9b" />
+</p>
+<p>
+12. Click yes to gain control of your Virtual Machine 
+</p>
+<br />
+
+<p>
+<img width="1474" height="829" alt="image" src="https://github.com/user-attachments/assets/18d4ca76-8703-4efc-988f-ae8cbae8aac8" />
+<p>
+13. Make sure none of these options are selected and click Accept.
+</p>
+<br />
+
+<p>
+ <img width="1597" height="841" alt="image" src="https://github.com/user-attachments/assets/59f9a0c3-2dd2-4d82-a945-bb89c19903ab" />
+</p>
+<p>
+ 14. Your virtual Machine is now ready to use.
+</p>
+<br />
