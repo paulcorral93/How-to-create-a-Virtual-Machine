@@ -59,3 +59,19 @@ This tutorial will demonstrate how to create and access a virtual machine using 
 5. The next step is to create login credentials for the Virtual machine so that you may access it via Remote Desktop.
 </p>
 <br />
+
+<p>
+<img width="1597" height="722" alt="image" src="https://github.com/user-attachments/assets/5f751a30-abbf-46c0-9931-3002e2a59d56" />
+</p>
+<p>
+6. If you are asked about licensing, simply click the box to continue and finally select "review+create" to finish the Virtual Machine.
+</p>
+<br />
+
+<p>
+<img width="1598" height="724" alt="image" src="https://github.com/user-attachments/assets/e1ac2963-42e1-4e65-a203-4e2440764dfa" />
+</p>
+<p>
+7. Select Create to finalize the Virtual Machine; this process may take a couple of seconds to a few minutes
+</p>
+<br />
